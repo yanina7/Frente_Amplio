@@ -1,7 +1,7 @@
 $(document).ready(function() {
-  $('#lg').toggle(3000);
-  $('#title-sh').toggle(3500);
+  $('#lg').toggle(2000);
+  $('#title-sh').toggle(2500);
   setTimeout(function() {
     window.location.href = 'views/register.html';
-  }, 4000);
+  }, 3000);
 });
